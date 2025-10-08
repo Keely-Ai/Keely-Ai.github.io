@@ -27,7 +27,8 @@ In Spring 2025, I was an exchange student at **Carnegie Mellon University (Schoo
 
 - **Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow‑based Models** *(under review)*.
 **Xinyue Ai***, Yutong He*, Albert Gu, Ruslan Salakhutdinov, J. Zico Kolter, Nicholas Matthew Boffi, Max Simchowitz (*equal contribution)
-<sub>We introduce a joint distillation framework that enables both high‑quality generation and few‑step log‑likelihood estimation.</sub>
+
+We introduce a joint distillation framework that enables both high‑quality generation and few‑step log‑likelihood estimation.
 
 
 - **How Numerical Precision Affects Arithmetical Reasoning Capabilities of LLMs** *(Findings of ACL 2025)*.
