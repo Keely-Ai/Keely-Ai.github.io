@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I’m **Xinyue Ai** (艾心玥), a senior undergraduate student in Computer Science at **Peking University**, where I am fortunate to be advised by [Prof. Di He](https://dihe-pku.github.io/). In Spring 2025, I was an exchange student at **Carnegie Mellon University (School of Computer Science)**. Currently, I have the privilege of working with [Prof. Max Simchowitz](https://msimchowitz.github.io/), [Prof. Albert Gu](https://goombalab.github.io/), and my supportive and inspiring graduate student mentor, [Yutong He](https://kellyyutonghe.github.io/).
+Hi! I’m **Xinyue Ai** (艾心玥), a senior undergraduate student in Computer Science at **Peking University**, where I am fortunate to be advised by [Prof. Di He](https://dihe-pku.github.io/) and selected into the Elite Undergraduate Training Program. In Spring 2025, I studied as an exchange student at the School of Computer Science,  **Carnegie Mellon University** and had the opportunity to collaborate with [Prof. Max Simchowitz](https://msimchowitz.github.io/), [Prof. Albert Gu](https://goombalab.github.io/), and my supportive and inspiring graduate student mentor, [Yutong He](https://kellyyutonghe.github.io/).
 
 My research interests focus on **generative models**, spanning both theory and algorithms. I am particularly interested in acceleration methods for training and inference, and I am broadening my focus to the theoretical mechanisms of various generative models (including diffusion and flow-based models) and their applications in sampling and scientific domains.
 
@@ -27,11 +27,34 @@ Feel free to contact me via email if you share similar research interests!
 
 # 📝 Papers
 
-- **Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow‑based Models** <span style="color:blue">(Under Review)</span>  
-**Xinyue Ai**\*, Yutong He\*, Albert Gu, Ruslan Salakhutdinov, J. Zico Kolter, Nicholas Matthew Boffi, Max Simchowitz (\*equal contribution)  
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/demo.png' alt="Joint Distillation paper image" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
-- **How Numerical Precision Affects Arithmetical Reasoning Capabilities of LLMs** <span style="color:blue">(Findings of ACL 2025)</span>  
-Guhao Feng\*, Kai Yang\*, Yuntian Gu, **Xinyue Ai**, Shengjie Luo, Jiacheng Sun, Di He, Zhenguo Li, Liwei Wang (\*equal contribution)  
+**Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models** <span style="color:blue">(Under Review)</span>  
+**Xinyue Ai**\*, Yutong He\*, Albert Gu, Ruslan Salakhutdinov, J. Zico Kolter, Nicholas Matthew Boffi, Max Simchowitz (\*equal contribution)
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/arith.png' alt="Numerical Precision & LLM Arithmetic paper image" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**How Numerical Precision Affects Arithmetical Reasoning Capabilities of LLMs**](https://arxiv.org/abs/2410.13857) <span style="color:blue">(Findings of ACL 2025)</span>  
+Guhao Feng\*, Kai Yang\*, Yuntian Gu, **Xinyue Ai**, Shengjie Luo, Jiacheng Sun, Di He, Zhenguo Li, Liwei Wang (\*equal contribution)
+
+  </div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2024.11* &nbsp; **National Scholarship (Top 3%)**.
@@ -41,8 +64,8 @@ Guhao Feng\*, Kai Yang\*, Yuntian Gu, **Xinyue Ai**, Shengjie Luo, Jiacheng Sun,
 - *2021.08* &nbsp; **Gold Medal**, Chinese Girls' Mathematical Olympiad.
 
 # 📖 Educations
-- *2022.09 - 2026.07 (expected)*, **Peking University**, B.S. in Information and Computing Science (School of EECS). GPA: **3.813/4.0** (Rank 8/110, **Top 10%**). Elite Undergraduate Training Program.
-- *2025.01 - 2025.05*, **Carnegie Mellon University**, School of Computer Science, **Exchange Student** (GPA **4.0/4.0**).
+- *2022.09 - 2026.07 (expected)*, **Peking University**, B.S. in Information and Computing Science (School of EECS). \\ GPA: **3.813/4.0** (Rank 8/110, **Top 10%**). Elite Undergraduate Training Program.
+- *2025.01 - 2025.05*, **Carnegie Mellon University**, School of Computer Science, **Exchange Student**. GPA **4.0/4.0**.
 
 # 🎵🏃‍♀️ Misc.
 - I am a teaching assistant for *Music and Mathematics* (2024 Fall, 2025 Spring online, 2025 Fall), a course that combines two of my interests and that I greatly enjoy.  
