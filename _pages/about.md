@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I’m **Xinyue Ai** (艾心玥), a senior undergraduate student in Computer Science at **Peking University**, where I am fortunate to be advised by [Prof. Di He](https://dihe-pku.github.io/) and selected into the Elite Undergraduate Training Program. In Spring 2025, I studied as an exchange student at the School of Computer Science,  **Carnegie Mellon University** and had the opportunity to collaborate with [Prof. Max Simchowitz](https://msimchowitz.github.io/), [Prof. Albert Gu](https://goombalab.github.io/), and my supportive and inspiring graduate student mentor, [Yutong He](https://kellyyutonghe.github.io/).
+Hi! I’m **Xinyue Ai** (艾心玥), a senior undergraduate student in Computer Science at **Peking University**, where I am fortunate to be advised by [Prof. Di He](https://dihe-pku.github.io/) and selected into the Elite Undergraduate Training Program. In Spring 2025, I studied as an exchange student at the School of Computer Science of **Carnegie Mellon University** and had the opportunity to collaborate with [Prof. Max Simchowitz](https://msimchowitz.github.io/), [Prof. Albert Gu](https://goombalab.github.io/), and my supportive and inspiring graduate student mentor, [Yutong He](https://kellyyutonghe.github.io/).
 
 My research interests focus on **generative models**, spanning both theory and algorithms. I am particularly interested in acceleration methods for training and inference, and I am broadening my focus to the theoretical mechanisms of various generative models (including diffusion and flow-based models) and their applications in sampling and scientific domains.
 
@@ -64,11 +64,11 @@ Guhao Feng\*, Kai Yang\*, Yuntian Gu, **Xinyue Ai**, Shengjie Luo, Jiacheng Sun,
 - *2021.08* &nbsp; **Gold Medal**, Chinese Girls' Mathematical Olympiad.
 
 # 📖 Educations
-- *2022.09 - 2026.07 (expected)*, **Peking University**, B.S. in Information and Computing Science (School of EECS). \\ GPA: **3.813/4.0** (Rank 8/110, **Top 10%**). Elite Undergraduate Training Program.
+- *2022.09 - 2026.07 (expected)*, **Peking University**, B.S. in Information and Computing Science (School of EECS). GPA: **3.813/4.0** (Rank 8/110, **Top 10%**). Elite Undergraduate Training Program.
 - *2025.01 - 2025.05*, **Carnegie Mellon University**, School of Computer Science, **Exchange Student**. GPA **4.0/4.0**.
 
 # 🎵🏃‍♀️ Misc.
 - I am a teaching assistant for *Music and Mathematics* (2024 Fall, 2025 Spring online, 2025 Fall), a course that combines two of my interests and that I greatly enjoy.  
-- I have been a member of the ethnic orchestra at the *Chinese Music Institute (CMI)*, Peking University, for three years, playing **Pipa** (a traditional Chinese instrument). Together, we performed three concerts at one of the most renowned music halls in China.  
+- I have been a member of the ethnic orchestra at the *Chinese Music Institute (CMI)*, Peking University, for three years, playing **Pipa** (a traditional Chinese instrument) with [Yanzhe Pan](https://scholar.google.com/citations?user=WUY5pQcAAAAJ&hl). Together, we performed three concerts at one of the most renowned music halls in China.  
 - I enjoy sports and have won several medals in university competitions at Peking University, including a gold medal in Jumping and a silver medal in the Women's 4x100 Relay.
 
