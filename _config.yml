@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinyue Ai"
-description              : "Xinyue Ai's homepage"
+description              : "Interested in generative models"
 repository               : "Keely-Ai/Keely-Ai.github.io"
 google_scholar_stats_use_cdn : False
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinyue Ai"
   avatar           : "images/me.png"
-  bio              : "Peking University"
+  bio              : "Peking University, Exchange Student@Carnegie Mellon University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
