@@ -47,5 +47,5 @@ Guhao Feng\*, Kai Yang\*, Yuntian Gu, **Xinyue Ai**, Shengjie Luo, Jiacheng Sun,
 # 🎵🏃‍♀️ Misc.
 - I am a teaching assistant for *Music and Mathematics* (2024 Fall, 2025 Spring online, 2025 Fall), a course that combines two of my interests and that I greatly enjoy.  
 - I have been a member of the ethnic orchestra at the *Chinese Music Institute (CMI)*, Peking University, for three years, playing **Pipa** (a traditional Chinese instrument). Together, we performed three concerts at one of the most renowned music halls in China.  
-- I enjoy sports and have won several medals in university competitions at Peking University, including a gold medal in Jumping and a silver medal in the 4×100 women’s relay.
+- I enjoy sports and have won several medals in university competitions at Peking University, including a gold medal in Jumping and a silver medal in the Women's 4x100 relay.
 
