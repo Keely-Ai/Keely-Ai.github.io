@@ -28,15 +28,15 @@ Feel free to contact me via email if you share similar research interests!
 # 📝 Papers
 
 - **Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow‑based Models** <span style="color:blue">(Under Review)</span>  
-**Xinyue Ai**\*, Yutong He\*, Albert Gu, Ruslan Salakhutdinov, J. Zico Kolter, Nicholas Matthew Boffi, Max Simchowitz (*equal contribution*)  
+**Xinyue Ai**\*, Yutong He\*, Albert Gu, Ruslan Salakhutdinov, J. Zico Kolter, Nicholas Matthew Boffi, Max Simchowitz (\*equal contribution)  
 
 - **How Numerical Precision Affects Arithmetical Reasoning Capabilities of LLMs** <span style="color:blue">(Findings of ACL 2025)</span>  
-Guhao Feng\*, Kai Yang\*, Yuntian Gu, **Xinyue Ai**, Shengjie Luo, Jiacheng Sun, Di He, Zhenguo Li, Liwei Wang 
+Guhao Feng\*, Kai Yang\*, Yuntian Gu, **Xinyue Ai**, Shengjie Luo, Jiacheng Sun, Di He, Zhenguo Li, Liwei Wang (\*equal contribution)  
 
 # 🎖 Honors and Awards
-- *2024.11* &nbsp; **National Scholarship (Top 3%)**, Peking University.
-- *2023.09* & *2024.09* &nbsp; **Merit Student Award**, Peking University.
-- *2023.09* &nbsp; **Yanchuang Capital Scholarship**, Peking University.
+- *2024.11* &nbsp; **National Scholarship (Top 3%)**.
+- *2023.09* & *2024.09* &nbsp; **Merit Student Award**.
+- *2023.09* &nbsp; **Yanchuang Capital Scholarship**.
 - *2021.12* &nbsp; **Silver Medal**, Chinese Mathematical Olympiad.
 - *2021.08* &nbsp; **Gold Medal**, Chinese Girls' Mathematical Olympiad.
 
@@ -47,5 +47,5 @@ Guhao Feng\*, Kai Yang\*, Yuntian Gu, **Xinyue Ai**, Shengjie Luo, Jiacheng Sun,
 # 🎵🏃‍♀️ Misc.
 - I am a teaching assistant for *Music and Mathematics* (2024 Fall, 2025 Spring online, 2025 Fall), a course that combines two of my interests and that I greatly enjoy.  
 - I have been a member of the ethnic orchestra at the *Chinese Music Institute (CMI)*, Peking University, for three years, playing **Pipa** (a traditional Chinese instrument). Together, we performed three concerts at one of the most renowned music halls in China.  
-- I enjoy sports and have won several medals in university competitions at Peking University, including a gold medal in Jumping and a silver medal in the Women's 4x100 relay.
+- I enjoy sports and have won several medals in university competitions at Peking University, including a gold medal in Jumping and a silver medal in the Women's 4x100 Relay.
 
