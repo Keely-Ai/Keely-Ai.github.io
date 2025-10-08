@@ -64,8 +64,7 @@ Guhao Feng\*, Kai Yang\*, Yuntian Gu, **Xinyue Ai**, Shengjie Luo, Jiacheng Sun,
 - *2021.08* &nbsp; **Gold Medal**, Chinese Girls' Mathematical Olympiad.
 
 # 📖 Educations
-- *2022.09 - 2026.07 (expected)*, **Peking University**, B.S. in Information and Computing Science (School of EECS). 
-    GPA: **3.813/4.0** (Rank 8/110, **Top 10%**). Elite Undergraduate Training Program.
+- *2022.09 - 2026.07 (expected)*, **Peking University**, B.S. in Information and Computing Science (School of EECS). GPA: **3.813/4.0** (Rank 8/110, **Top 10%**). Elite Undergraduate Training Program.
 - *2025.01 - 2025.05*, **Carnegie Mellon University**, School of Computer Science, **Exchange Student**. GPA **4.0/4.0**.
 
 # 🎵🏃‍♀️ Misc.
