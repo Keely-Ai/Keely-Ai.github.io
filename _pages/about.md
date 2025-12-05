@@ -35,7 +35,7 @@ Feel free to contact me via email if you share similar research interests!
   </div>
   <div class='paper-box-text' markdown="1">
 
-**Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models** <span style="color:blue">(Under Review)</span>  
+[**Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models**](https://arxiv.org/abs/2512.02636) <span style="color:blue">(Under Review)</span>  
 **Xinyue Ai**\*, Yutong He\*, Albert Gu, Ruslan Salakhutdinov, J. Zico Kolter, Nicholas Matthew Boffi, Max Simchowitz (\*equal contribution)
 
   </div>
