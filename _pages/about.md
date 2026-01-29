@@ -23,7 +23,8 @@ My research interests focus on **generative models**, spanning both theory and a
 
 Feel free to contact me via email if you share similar research interests!
 
-
+# 🔥 News
+- *2026.01*: Our paper [**Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models**](https://arxiv.org/abs/2512.02636) is accepted by ICLR 2026!
 
 # 📝 Papers
 
@@ -35,7 +36,7 @@ Feel free to contact me via email if you share similar research interests!
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models**](https://arxiv.org/abs/2512.02636) <span style="color:blue">(Under Review)</span>  
+[**Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models**](https://arxiv.org/abs/2512.02636) <span style="color:blue">(ICLR 2026)</span>  
 **Xinyue Ai**\*, Yutong He\*, Albert Gu, Ruslan Salakhutdinov, J. Zico Kolter, Nicholas Matthew Boffi, Max Simchowitz (\*equal contribution)
 
   </div>
