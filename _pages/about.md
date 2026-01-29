@@ -26,6 +26,8 @@ Feel free to contact me via email if you share similar research interests!
 # 🔥 News
 - *2026.01*: Our paper [**Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models**](https://arxiv.org/abs/2512.02636) is accepted by ICLR 2026!
 
+- *2025.05*: [**How Numerical Precision Affects Arithmetical Reasoning Capabilities of LLMs**](https://arxiv.org/abs/2410.13857)(https://arxiv.org/abs/2512.02636) is accepted by Findings of ACL 2025!
+
 # 📝 Papers
 
 <div class='paper-box'>
