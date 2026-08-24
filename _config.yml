@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinyue Ai"
   avatar           : "images/me.png"
-  bio              : "Peking University, Exchange Student@Carnegie Mellon University"
-  location         : "Beijing, China"
+  bio              : "University of Pennsylvania"
+  location         : "Philadelphia, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KogjUYwAAAAJ"
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://x.com/KeelyAi04"
   vine             :
   weibo            :
   xing             :
