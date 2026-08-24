@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I’m **Xinyue Ai** (艾心玥), a senior undergraduate student in Information and Computing Science at **Peking University**, where I am fortunate to be advised by [Prof. Di He](https://dihe-pku.github.io/) and selected into the Elite Undergraduate Training Program. In Spring 2025, I studied as an exchange student at the School of Computer Science at **Carnegie Mellon University** and had the opportunity to collaborate with [Prof. Max Simchowitz](https://msimchowitz.github.io/), [Prof. Albert Gu](https://goombalab.github.io/), and my supportive and inspiring graduate student mentor, [Yutong He](https://kellyyutonghe.github.io/).
+Hi! I’m **Xinyue Ai** (艾心玥), a first-year CIS PhD student at University of Pennsylvania, advised by [Prof. Jiatao Gu](https://jiataogu.me/). I received my bachelor's degree in Information and Computing Science from **Peking University**, where I was fortunate to be advised by [Prof. Di He](https://dihe-pku.github.io/) I also had the privilege of collaborating with [Prof. Max Simchowitz](https://msimchowitz.github.io/), [Prof. Albert Gu](https://goombalab.github.io/), and my supportive and inspiring graduate student mentor, [Yutong He](https://kellyyutonghe.github.io/).
 
 My research interests focus on **generative models**, spanning both theory and algorithms. I am particularly interested in acceleration methods for training and inference, and I am broadening my focus to the theoretical mechanisms of various generative models (including diffusion and flow-based models) and their applications in sampling and scientific domains.
 
@@ -47,6 +47,21 @@ Feel free to contact me via email if you share similar research interests!
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <img src='images/scallop.png' alt="Few-Step Boltzmann Generators via Scalable Likelihood Flow Maps" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Few-Step Boltzmann Generators via Scalable Likelihood Flow Maps**](https://arxiv.org/abs/2606.29110) <span style="color:blue">(Preprint)</span>  
+RuiKang OuYang, Hanlin Yu\*, Xinyue Ai\*, Yutong He, Nicholas M. Boffi, Pradeep Ravikumar, Jose Miguel Hernandez-Lobato, Max Simchowitz, Benjamin Kurt Miller, Omar Chehab
+(\*equal contribution)
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <img src='images/arith.png' alt="Numerical Precision & LLM Arithmetic paper image" width="100%">
     </div>
   </div>
@@ -60,6 +75,7 @@ Guhao Feng\*, Kai Yang\*, Yuntian Gu, **Xinyue Ai**, Shengjie Luo, Jiacheng Sun,
 
 
 # 🎖 Honors and Awards
+- *2026.6* &nbsp; **Outstanding Graduate**.
 - *2024.11* &nbsp; **National Scholarship (Top 3%)**.
 - *2023.09* & *2024.09* &nbsp; **Merit Student Award**.
 - *2023.09* &nbsp; **Yanchuang Capital Scholarship**.
@@ -67,7 +83,8 @@ Guhao Feng\*, Kai Yang\*, Yuntian Gu, **Xinyue Ai**, Shengjie Luo, Jiacheng Sun,
 - *2021.08* &nbsp; **Gold Medal**, Chinese Girls' Mathematical Olympiad.
 
 # 📖 Educations
-- *2022.09 - 2026.07 (expected)*, **Peking University**, B.S. in Information and Computing Science (School of EECS). GPA: **3.813/4.0** (Rank 8/110, **Top 10%**). Elite Undergraduate Training Program.
+- *2026.08 - now*, **University of Pennsylvania**, Ph.D. in Computer and Information Sciences.
+- *2022.09 - 2026.06*, **Peking University**, B.S. in Information and Computing Science (School of EECS). GPA: **3.813/4.0** (Rank 8/110, **Top 10%**). Elite Undergraduate Training Program.
 - *2025.01 - 2025.05*, **Carnegie Mellon University**, School of Computer Science, **Exchange Student**. GPA **4.0/4.0**.
 
 # 🎵🏃‍♀️ Misc.
