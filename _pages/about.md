@@ -24,6 +24,12 @@ My research interests focus on **generative models**, spanning both theory and a
 Feel free to contact me via email if you share similar research interests!
 
 # 🔥 News
+- *2026.08*: I begin my PhD journey at UPenn, where I am fortunate to be advised by Prof. Jiatao Gu!
+
+- *2026.07*: I graduate from Peking University💗!
+
+- *2026.05*: Our paper [**Few-Step Boltzmann Generators via Scalable Likelihood Flow Maps**](https://arxiv.org/abs/2606.29110) is accepted by SPIGM@ICML 2026 Workshop!
+
 - *2026.01*: Our paper [**Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models**](https://arxiv.org/abs/2512.02636) is accepted by ICLR 2026!
 
 - *2025.05*: Our paper [**How Numerical Precision Affects Arithmetical Reasoning Capabilities of LLMs**](https://arxiv.org/abs/2410.13857) is accepted by Findings of ACL 2025!
