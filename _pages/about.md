@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I’m **Xinyue Ai** (艾心玥), a first-year CIS PhD student at University of Pennsylvania, advised by [Prof. Jiatao Gu](https://jiataogu.me/). I received my bachelor's degree in Information and Computing Science from **Peking University**, where I was fortunate to be advised by [Prof. Di He](https://dihe-pku.github.io/) I also had the privilege of collaborating with [Prof. Max Simchowitz](https://msimchowitz.github.io/), [Prof. Albert Gu](https://goombalab.github.io/), and my supportive and inspiring graduate student mentor, [Yutong He](https://kellyyutonghe.github.io/).
+Hi! I’m **Xinyue Ai** (艾心玥), a first-year CIS PhD student at **University of Pennsylvania**, advised by [Prof. Jiatao Gu](https://jiataogu.me/). I received my bachelor's degree in Information and Computing Science from Peking University, where I was fortunate to be advised by [Prof. Di He](https://dihe-pku.github.io/). I also had the privilege of collaborating with [Prof. Max Simchowitz](https://msimchowitz.github.io/), [Prof. Albert Gu](https://goombalab.github.io/), and my supportive and inspiring graduate student mentor, [Yutong He](https://kellyyutonghe.github.io/).
 
 My research interests focus on **generative models**, spanning both theory and algorithms. I am particularly interested in acceleration methods for training and inference, and I am broadening my focus to the theoretical mechanisms of various generative models (including diffusion and flow-based models) and their applications in sampling and scientific domains.
 
