@@ -73,7 +73,8 @@ RuiKang OuYang, Hanlin Yu\*, **Xinyue Ai**\*, Yutong He, Nicholas M. Boffi, Prad
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI**](https://arxiv.org/abs/2605.08678) <span style="color:blue">(Neurips 2026)</span><span style="color:blue">Oral</span>
+[**MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI**](https://arxiv.org/abs/2605.08678) <span style="color:blue">(Neurips 2026 </span><span style="color:red">Oral</span><span style="color:blue">)</span>
+
 Bohan Lyu, Yucheng Yang, Siqiao Huang, Jiaru Zhang, Qixin Xu, Xinghan Li, Xinyang Han, Yicheng Zhang, Huaqing Zhang, Runhan Huang, Kaicheng Yang, Zitao Chen, Wentao Guo, Junlin Yang, **Xinyue Ai**, Wenhao Chai, Yadi Cao, Ziran Yang, Kun Wang, Dapeng Jiang, Huan-ang Gao, Shange Tang, Chengshuai Shi, Simon S. Du, Max Simchowitz, Jiantao Jiao, Dawn Song, Chi Jin
 
   </div>
