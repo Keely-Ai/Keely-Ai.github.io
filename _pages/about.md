@@ -24,17 +24,17 @@ My research interests focus on **generative models**, spanning both theory and a
 Feel free to contact me via email if you share similar research interests!
 
 # 🔥 News
+- *2026.09*: Our papers [**Few-Step Boltzmann Generators via Scalable Likelihood Flow Maps**](https://arxiv.org/abs/2606.29110) and [**MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI**](https://arxiv.org/abs/2605.08678) have been accepted to **NeurIPS 2026**, with MLS-Bench selected for an **oral presentation**!
+
 - *2026.08*: I begin my PhD journey at UPenn, where I am fortunate to be advised by Prof. Jiatao Gu!
 
 - *2026.07*: I graduate from Peking University💗!
-
-- *2026.05*: Our paper [**Few-Step Boltzmann Generators via Scalable Likelihood Flow Maps**](https://arxiv.org/abs/2606.29110) is accepted by SPIGM@ICML 2026 Workshop!
 
 - *2026.01*: Our paper [**Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models**](https://arxiv.org/abs/2512.02636) is accepted by ICLR 2026!
 
 - *2025.05*: Our paper [**How Numerical Precision Affects Arithmetical Reasoning Capabilities of LLMs**](https://arxiv.org/abs/2410.13857) is accepted by Findings of ACL 2025!
 
-# 📝 Papers
+# 📝 Selected Papers
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -58,9 +58,23 @@ Feel free to contact me via email if you share similar research interests!
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**Few-Step Boltzmann Generators via Scalable Likelihood Flow Maps**](https://arxiv.org/abs/2606.29110) <span style="color:blue">(Preprint)</span>  
-RuiKang OuYang, Hanlin Yu\*, Xinyue Ai\*, Yutong He, Nicholas M. Boffi, Pradeep Ravikumar, Jose Miguel Hernandez-Lobato, Max Simchowitz, Benjamin Kurt Miller, Omar Chehab
+[**Few-Step Boltzmann Generators via Scalable Likelihood Flow Maps**](https://arxiv.org/abs/2606.29110) <span style="color:blue">(Neurips 2026)</span>  
+RuiKang OuYang, Hanlin Yu\*, **Xinyue Ai**\*, Yutong He, Nicholas M. Boffi, Pradeep Ravikumar, Jose Miguel Hernandez-Lobato, Max Simchowitz, Benjamin Kurt Miller, Omar Chehab
 (\*equal contribution)
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/mls.png' alt="" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI**](https://arxiv.org/abs/2605.08678) <span style="color:blue">(Neurips 2026)</span><span style="color:blue">Oral</span>
+Bohan Lyu, Yucheng Yang, Siqiao Huang, Jiaru Zhang, Qixin Xu, Xinghan Li, Xinyang Han, Yicheng Zhang, Huaqing Zhang, Runhan Huang, Kaicheng Yang, Zitao Chen, Wentao Guo, Junlin Yang, **Xinyue Ai**, Wenhao Chai, Yadi Cao, Ziran Yang, Kun Wang, Dapeng Jiang, Huan-ang Gao, Shange Tang, Chengshuai Shi, Simon S. Du, Max Simchowitz, Jiantao Jiao, Dawn Song, Chi Jin
 
   </div>
 </div>
@@ -81,7 +95,7 @@ Guhao Feng\*, Kai Yang\*, Yuntian Gu, **Xinyue Ai**, Shengjie Luo, Jiacheng Sun,
 
 
 # 🎖 Honors and Awards
-- *2026.6* &nbsp; **Outstanding Graduate**.
+- *2026.06* &nbsp; **Outstanding Graduate**.
 - *2024.11* &nbsp; **National Scholarship (Top 3%)**.
 - *2023.09* & *2024.09* &nbsp; **Merit Student Award**.
 - *2023.09* &nbsp; **Yanchuang Capital Scholarship**.
@@ -97,4 +111,5 @@ Guhao Feng\*, Kai Yang\*, Yuntian Gu, **Xinyue Ai**, Shengjie Luo, Jiacheng Sun,
 - I am a teaching assistant for *Music and Mathematics* (2024 Fall, 2025 Spring online, 2025 Fall), a course that combines two of my interests and that I greatly enjoy.  
 - I have been a member of the ethnic orchestra at the *Chinese Music Institute (CMI)*, Peking University, for three years, playing **Pipa** (a traditional Chinese instrument) with [Yanzhe Pan](https://scholar.google.com/citations?user=WUY5pQcAAAAJ&hl). Together, we performed three concerts at one of the most renowned music halls in China.  
 - I enjoy sports and have won several medals in university competitions at Peking University, including a gold medal in Jumping and a silver medal in the Women's 4x100 Relay.
+- Check out my sister [Lin Ai](https://linnotlinn.github.io/)’s website to learn more about her work in computational linguistics and her interests in languages, literature, and more! 🏐⛸️📚🎵
 
