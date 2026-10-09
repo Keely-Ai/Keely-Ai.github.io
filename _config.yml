@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinyue Ai"
-description              : "Interested in generative models"
+description              : "Xinyue Ai — CIS Ph.D. student at the University of Pennsylvania working on generative models."
 repository               : "Keely-Ai/Keely-Ai.github.io"
 google_scholar_stats_use_cdn : False
 
@@ -22,8 +22,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xinyue Ai"
-  avatar           : "images/me.png"
+  name_native      : "艾心玥"
+  avatar           : "images/opt/me.jpg"
+  position         : "CIS Ph.D. Student"
   bio              : "University of Pennsylvania"
+  interests        : ["Generative models", "Diffusion & flows", "Sampling"]
   location         : "Philadelphia, USA"
   employer         :
   pubmed           : 
