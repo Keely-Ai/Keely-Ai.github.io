@@ -13,7 +13,7 @@
 - title: "Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models"
   url: "https://arxiv.org/abs/2512.02636"
   venue: "ICLR 2026"
-  image: "images/opt/f2d2.png"
+  image: "images/f2d2.png"
   authors: "**Xinyue Ai**\\*, Yutong He\\*, Albert Gu, Ruslan Salakhutdinov, J. Zico Kolter, Nicholas Matthew Boffi, Max Simchowitz"
   note: "* Equal contribution"
   links:
@@ -27,7 +27,7 @@
 - title: "Few-Step Boltzmann Generators via Scalable Likelihood Flow Maps"
   url: "https://arxiv.org/abs/2606.29110"
   venue: "NeurIPS 2026"
-  image: "images/opt/scallop.jpg"
+  image: "images/scallop.jpg"
   authors: "RuiKang OuYang, Hanlin Yu\\*, **Xinyue Ai**\\*, Yutong He, Nicholas M. Boffi, Pradeep Ravikumar, José Miguel Hernández-Lobato, Max Simchowitz, Benjamin Kurt Miller, Omar Chehab"
   note: "* Equal contribution"
   links:
@@ -40,7 +40,7 @@
   url: "https://arxiv.org/abs/2605.08678"
   venue: "NeurIPS 2026 · E&D Track"
   highlight: "Oral"
-  image: "images/opt/mls.jpg"
+  image: "images/mls.jpg"
   authors: "Bohan Lyu, Yucheng Yang, Siqiao Huang, Jiaru Zhang, Qixin Xu, Xinghan Li, Xinyang Han, Yicheng Zhang, Huaqing Zhang, Runhan Huang, Kaicheng Yang, Zitao Chen, Wentao Guo, Junlin Yang, **Xinyue Ai**, Wenhao Chai, Yadi Cao, Ziran Yang, Kun Wang, Dapeng Jiang, Huan-ang Gao, Shange Tang, Chengshuai Shi, Simon S. Du, Max Simchowitz, Jiantao Jiao, Dawn Song, Chi Jin"
   authors_short: "Bohan Lyu, Yucheng Yang, Siqiao Huang, …, **Xinyue Ai**, …, Max Simchowitz, Jiantao Jiao, Dawn Song, Chi Jin"
   links:
@@ -54,7 +54,7 @@
 - title: "How Numerical Precision Affects Arithmetical Reasoning Capabilities of LLMs"
   url: "https://arxiv.org/abs/2410.13857"
   venue: "Findings of ACL 2025"
-  image: "images/opt/arith.png"
+  image: "images/arith.png"
   authors: "Guhao Feng\\*, Kai Yang\\*, Yuntian Gu, **Xinyue Ai**, Shengjie Luo, Jiacheng Sun, Di He, Zhenguo Li, Liwei Wang"
   note: "* Equal contribution"
   links:

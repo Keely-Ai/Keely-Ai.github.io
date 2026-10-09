@@ -8,6 +8,24 @@
       }
     });
 
+    // Light / dark theme switch (light by default, choice remembered).
+    var root = document.documentElement;
+    var themeButtons = document.querySelectorAll('[data-theme-choice]');
+    var themeColor = document.querySelector('meta[name="theme-color"]');
+    function applyTheme(theme) {
+      if (theme === 'dark') root.setAttribute('data-theme', 'dark');
+      else root.removeAttribute('data-theme');
+      themeButtons.forEach(function (b) { b.setAttribute('aria-pressed', b.dataset.themeChoice === theme); });
+      if (themeColor) themeColor.content = theme === 'dark' ? '#131316' : '#ffffff';
+    }
+    applyTheme(root.getAttribute('data-theme') === 'dark' ? 'dark' : 'light');
+    themeButtons.forEach(function (b) {
+      b.addEventListener('click', function () {
+        applyTheme(b.dataset.themeChoice);
+        try { localStorage.setItem('theme', b.dataset.themeChoice); } catch (e) {}
+      });
+    });
+
     // Mobile navigation toggle.
     var toggle = document.querySelector('.masthead__toggle');
     var nav = document.getElementById('site-nav');
