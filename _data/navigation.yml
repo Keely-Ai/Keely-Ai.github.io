@@ -1,15 +1,19 @@
-# main links links
+# Top navigation links (anchors match the section ids in _pages/about.md)
 main:
-  - title: "About Me"
-    url: "/#about-me"
+  - title: "About"
+    url: "#about-me"
 
+  - title: "News"
+    url: "#news"
 
-  - title: "Papers"
-    url: "/#-papers"
+  - title: "Publications"
+    url: "#publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Honors"
+    url: "#honors"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Education"
+    url: "#education"
 
+  - title: "Misc"
+    url: "#misc"

@@ -1,4 +1,54 @@
-<script src="assets/js/main.min.js"></script>
+<script>
+  (function () {
+    // External links open in a new tab; in-page anchors stay put.
+    document.querySelectorAll('a[href]').forEach(function (a) {
+      if (a.hostname && a.hostname !== location.hostname) {
+        a.target = '_blank';
+        a.rel = 'noopener';
+      }
+    });
 
-{% include analytics.html %}
-{% include fetch_google_scholar_stats.html %}
+    // Mobile navigation toggle.
+    var toggle = document.querySelector('.masthead__toggle');
+    var nav = document.getElementById('site-nav');
+    toggle.addEventListener('click', function () {
+      var open = nav.classList.toggle('is-open');
+      toggle.setAttribute('aria-expanded', open);
+    });
+    nav.addEventListener('click', function (e) {
+      if (e.target.tagName === 'A') {
+        nav.classList.remove('is-open');
+        toggle.setAttribute('aria-expanded', 'false');
+      }
+    });
+
+    // Highlight the nav link of the section currently in view.
+    var links = {};
+    nav.querySelectorAll('a').forEach(function (a) { links[a.getAttribute('href').slice(1)] = a; });
+    var sections = Array.prototype.filter.call(document.querySelectorAll('.section[id]'), function (s) { return links[s.id]; });
+    function onScroll() {
+      var current = sections[0];
+      sections.forEach(function (s) {
+        if (s.getBoundingClientRect().top < window.innerHeight * 0.3) current = s;
+      });
+      if (window.innerHeight + window.scrollY >= document.body.scrollHeight - 2) current = sections[sections.length - 1];
+      Object.keys(links).forEach(function (id) { links[id].classList.toggle('is-active', current && id === current.id); });
+    }
+    window.addEventListener('scroll', onScroll, { passive: true });
+    window.addEventListener('load', onScroll);
+    onScroll();
+
+    // "Show all authors" toggle for long author lists.
+    document.querySelectorAll('.pub__more').forEach(function (btn) {
+      var p = btn.previousElementSibling;
+      btn.addEventListener('click', function () {
+        var expanded = btn.getAttribute('aria-expanded') === 'true';
+        p.innerHTML = expanded ? p.dataset.short : p.dataset.full;
+        btn.setAttribute('aria-expanded', !expanded);
+        btn.textContent = expanded ? 'Show all authors' : 'Show fewer';
+      });
+    });
+  })();
+</script>
+
+{% if site.google_analytics_id %}{% include analytics.html %}{% endif %}

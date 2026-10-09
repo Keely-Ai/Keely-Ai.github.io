@@ -1,33 +1,24 @@
----
-layout: compress
----
-
 <!doctype html>
-<html lang="en" class="no-js">
+<html lang="en">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
   </head>
 
   <body>
-
-    {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    <div id="main" role="main">
+    <div class="layout">
       {% include sidebar.html %}
-    
-      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-        <div class="page__inner-wrap">
-          <section class="page__content" itemprop="text">
-            {{ content }}
-          </section>
-        </div>
-      </article>
+
+      <main class="content" id="main">
+        {{ content }}
+        <footer class="site-footer">
+          © {{ site.time | date: "%Y" }} {{ site.author.name }} · Last updated {{ site.time | date: "%B %Y" }}
+        </footer>
+      </main>
     </div>
 
     {% include scripts.html %}
-
   </body>
 </html>

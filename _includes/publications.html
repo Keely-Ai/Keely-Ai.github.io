@@ -1,0 +1,32 @@
+<div class="pubs">
+{% for pub in site.data.publications %}
+  <article class="pub">
+    {% if pub.image %}
+      <a class="pub__thumb" href="{{ pub.url }}" tabindex="-1" aria-hidden="true">
+        <img src="{{ pub.image }}" alt="" loading="lazy">
+      </a>
+    {% endif %}
+    <div class="pub__body">
+      <div class="pub__badges">
+        {% if pub.venue %}<span class="badge">{{ pub.venue }}</span>{% endif %}
+        {% if pub.highlight %}<span class="badge badge--highlight">{{ pub.highlight }}</span>{% endif %}
+      </div>
+      <h3 class="pub__title"><a href="{{ pub.url }}">{{ pub.title }}</a></h3>
+      {% assign authors_full = pub.authors | markdownify | remove: '<p>' | remove: '</p>' | strip %}
+      {% if pub.authors_short %}
+        {% assign authors_short = pub.authors_short | markdownify | remove: '<p>' | remove: '</p>' | strip %}
+        <p class="pub__authors" data-short="{{ authors_short | escape }}" data-full="{{ authors_full | escape }}">{{ authors_short }}</p>
+        <button class="pub__more" type="button" aria-expanded="false">Show all authors</button>
+      {% else %}
+        <p class="pub__authors">{{ authors_full }}</p>
+      {% endif %}
+      {% if pub.note %}<p class="pub__note">{{ pub.note }}</p>{% endif %}
+      {% if pub.links %}
+        <div class="pub__links">
+          {% for link in pub.links %}<a class="pill" href="{{ link.url }}">{{ link.name }}</a>{% endfor %}
+        </div>
+      {% endif %}
+    </div>
+  </article>
+{% endfor %}
+</div>
