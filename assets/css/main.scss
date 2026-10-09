@@ -145,19 +145,8 @@ p { margin: 0 0 1em; }
   padding: 0 32px;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-end;
 }
-
-.masthead__brand {
-  font-family: var(--font);
-  font-size: 1.2rem;
-  font-weight: 700;
-  color: var(--accent);
-  text-decoration: none;
-  letter-spacing: 0;
-}
-
-.masthead__brand:hover { color: var(--accent-hover); }
 
 .masthead__right {
   display: flex;
