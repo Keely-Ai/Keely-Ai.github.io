@@ -24,8 +24,8 @@ Feel free to [contact me via email](mailto:aichen782@gmail.com) if you share sim
 
 <div class="dated-list" markdown="1">
 
-- <span class="date">Sep 2026</span> Our papers [Few-Step Boltzmann Generators via Scalable Likelihood Flow Maps](https://arxiv.org/abs/2606.29110) and [MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI](https://arxiv.org/abs/2605.08678) have been accepted to **NeurIPS 2026**, with MLS-Bench selected for an **oral presentation**!
-- <span class="date">Aug 2026</span> I began my Ph.D. journey at UPenn, where I am fortunate to be advised by Prof. Jiatao Gu!
+- <span class="date">Sep 2026</span> Our papers [Few-Step Boltzmann Generators via Scalable Likelihood Flow Maps](https://arxiv.org/abs/2606.29110) and [MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI](https://arxiv.org/abs/2605.08678) have been accepted to **NeurIPS 2026**, with MLS-Bench (E&D Track) selected for an **oral presentation**!
+- <span class="date">Aug 2026</span> I began my Ph.D. journey at UPenn!
 - <span class="date">Jul 2026</span> I graduated from Peking University 💗!
 - <span class="date">Jan 2026</span> Our paper [Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models](https://arxiv.org/abs/2512.02636) is accepted to **ICLR 2026**!
 - <span class="date">May 2025</span> Our paper [How Numerical Precision Affects Arithmetical Reasoning Capabilities of LLMs](https://arxiv.org/abs/2410.13857) is accepted to **Findings of ACL 2025**!

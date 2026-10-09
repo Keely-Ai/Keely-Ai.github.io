@@ -13,7 +13,7 @@
 - title: "Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models"
   url: "https://arxiv.org/abs/2512.02636"
   venue: "ICLR 2026"
-  image: "images/opt/f2d2.jpg"
+  image: "images/opt/f2d2.png"
   authors: "**Xinyue Ai**\\*, Yutong He\\*, Albert Gu, Ruslan Salakhutdinov, J. Zico Kolter, Nicholas Matthew Boffi, Max Simchowitz"
   note: "* Equal contribution"
   links:
@@ -38,7 +38,7 @@
 
 - title: "MLS-Bench: A Holistic and Rigorous Assessment of AI Systems on Building Better AI"
   url: "https://arxiv.org/abs/2605.08678"
-  venue: "NeurIPS 2026"
+  venue: "NeurIPS 2026 · E&D Track"
   highlight: "Oral"
   image: "images/opt/mls.jpg"
   authors: "Bohan Lyu, Yucheng Yang, Siqiao Huang, Jiaru Zhang, Qixin Xu, Xinghan Li, Xinyang Han, Yicheng Zhang, Huaqing Zhang, Runhan Huang, Kaicheng Yang, Zitao Chen, Wentao Guo, Junlin Yang, **Xinyue Ai**, Wenhao Chai, Yadi Cao, Ziran Yang, Kun Wang, Dapeng Jiang, Huan-ang Gao, Shange Tang, Chengshuai Shi, Simon S. Du, Max Simchowitz, Jiantao Jiao, Dawn Song, Chi Jin"

@@ -7,20 +7,20 @@
 
 :root {
   --bg: #ffffff;
-  --bg-soft: #f5f6f8;
+  --bg-soft: #f7f5fb;
   --surface: #ffffff;
-  --text: #1b1e23;
-  --text-2: #40464f;
-  --muted: #6b717c;
-  --border: #e6e8ec;
-  --accent: #2856a3;
-  --accent-hover: #1b3f7d;
-  --accent-soft: #edf2fb;
-  --accent-line: rgba(40, 86, 163, 0.3);
+  --text: #1d1a24;
+  --text-2: #433f4d;
+  --muted: #6c6878;
+  --border: #e9e5f0;
+  --accent: #6a3fb5;
+  --accent-hover: #4a2590;
+  --accent-soft: #f1ecfa;
+  --accent-line: rgba(106, 63, 181, 0.32);
   --highlight: #b42318;
   --highlight-soft: #fdeeec;
-  --header-bg: rgba(255, 255, 255, 0.82);
-  --shadow: 0 1px 2px rgba(16, 24, 40, 0.04), 0 8px 24px rgba(16, 24, 40, 0.07);
+  --header-bg: rgba(255, 255, 255, 0.85);
+  --shadow: 0 1px 2px rgba(45, 25, 80, 0.05), 0 8px 24px rgba(45, 25, 80, 0.08);
 
   --serif: "Source Serif 4", Georgia, "Times New Roman", serif;
   --sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
@@ -29,21 +29,21 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #121418;
-    --bg-soft: #1b1e24;
-    --surface: #171a1f;
-    --text: #e9ebef;
-    --text-2: #c4c9d1;
-    --muted: #8f96a1;
-    --border: #2a2e36;
-    --accent: #8db3ff;
-    --accent-hover: #b6cdff;
-    --accent-soft: rgba(141, 179, 255, 0.12);
-    --accent-line: rgba(141, 179, 255, 0.35);
+    --bg: #141219;
+    --bg-soft: #1d1a24;
+    --surface: #19161f;
+    --text: #ebe8f0;
+    --text-2: #c8c3d2;
+    --muted: #958fa3;
+    --border: #2d2838;
+    --accent: #c2a6ff;
+    --accent-hover: #ddd0ff;
+    --accent-soft: rgba(194, 166, 255, 0.13);
+    --accent-line: rgba(194, 166, 255, 0.4);
     --highlight: #ff8f85;
     --highlight-soft: rgba(255, 143, 133, 0.14);
-    --header-bg: rgba(18, 20, 24, 0.82);
-    --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 8px 24px rgba(0, 0, 0, 0.35);
+    --header-bg: rgba(20, 18, 25, 0.85);
+    --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 8px 24px rgba(0, 0, 0, 0.4);
   }
 }
 
@@ -202,7 +202,7 @@ p { margin: 0 0 1em; }
   height: 176px;
   border-radius: 50%;
   object-fit: cover;
-  box-shadow: 0 0 0 4px var(--bg), 0 0 0 5px var(--border);
+  box-shadow: 0 0 0 4px var(--bg), 0 0 0 6px var(--accent-line);
 }
 
 .profile__name {
@@ -263,8 +263,8 @@ p { margin: 0 0 1em; }
   font-size: 0.78rem;
   font-weight: 500;
   line-height: 1.7;
-  color: var(--text-2);
-  background: var(--bg-soft);
+  color: var(--accent-hover);
+  background: var(--accent-soft);
 }
 
 .profile__links {
@@ -289,6 +289,7 @@ p { margin: 0 0 1em; }
   text-decoration: none;
 }
 
+.profile__links a .icon { color: var(--accent); }
 .profile__links a:hover { color: var(--accent); background: var(--accent-soft); }
 
 /* ==========================================================================
@@ -317,7 +318,7 @@ p { margin: 0 0 1em; }
   content: "";
   flex: 1;
   height: 1px;
-  background: var(--border);
+  background: linear-gradient(90deg, var(--accent-line), var(--border) 40%);
 }
 
 .section ul { margin: 0; padding-left: 1.2em; }
