@@ -6,9 +6,9 @@
 <meta name="description" content="{{ site.description }}">
 
 <script>
-  // Apply the saved theme before first paint (light is the default).
+  // Dark is the default; switch to light before first paint if the visitor chose it.
   try {
-    if (localStorage.getItem('theme') === 'dark') document.documentElement.setAttribute('data-theme', 'dark');
+    if (localStorage.getItem('theme') === 'light') document.documentElement.removeAttribute('data-theme');
   } catch (e) {}
 </script>
 
