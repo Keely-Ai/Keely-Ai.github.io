@@ -23,6 +23,10 @@
   --aurora-1: rgba(167, 139, 250, 0.42);
   --aurora-2: rgba(244, 170, 214, 0.36);
   --aurora-3: rgba(147, 197, 253, 0.30);
+  --line-1: rgba(139, 92, 246, 0.60);
+  --line-2: rgba(236, 121, 180, 0.52);
+  --line-3: rgba(96, 165, 250, 0.46);
+  --aurora-line: linear-gradient(90deg, var(--line-1), var(--line-2) 45%, var(--line-3) 75%, transparent);
   --highlight: #b42318;
   --highlight-soft: #fdeeec;
   --header-bg: rgba(255, 255, 255, 0.85);
@@ -57,6 +61,9 @@
   --aurora-1: rgba(139, 112, 230, 0.18);
   --aurora-2: rgba(200, 120, 180, 0.09);
   --aurora-3: rgba(100, 150, 230, 0.09);
+  --line-1: rgba(180, 160, 240, 0.55);
+  --line-2: rgba(225, 150, 200, 0.40);
+  --line-3: rgba(130, 175, 240, 0.36);
 }
 
 /* ==========================================================================
@@ -313,7 +320,8 @@ p { margin: 0 0 1em; }
   gap: 6px;
   margin: 18px 0 0;
   padding: 16px 0 0;
-  border-top: 1px solid var(--border);
+  background: var(--aurora-line) no-repeat;
+  background-size: 100% 1px;
 }
 
 .profile__interests li {
@@ -376,8 +384,9 @@ p { margin: 0 0 1em; }
 .section h2::after {
   content: "";
   flex: 1;
-  height: 1px;
-  background: linear-gradient(90deg, var(--accent-ring), var(--border) 45%);
+  height: 2px;
+  border-radius: 2px;
+  background: var(--aurora-line);
 }
 
 .section ul { margin: 0; padding-left: 1.2em; }
@@ -408,11 +417,12 @@ p { margin: 0 0 1em; }
   position: relative;
   margin: 0;
   padding: 12px 0 12px 116px;
-  border-top: 1px solid var(--border);
+  background: var(--aurora-line) no-repeat;
+  background-size: 100% 1px;
   color: var(--text-2);
 }
 
-.dated-list li:first-child { border-top: 0; padding-top: 0; }
+.dated-list li:first-child { background: none; padding-top: 0; }
 .dated-list li:first-child .date { top: 2px; }
 
 .dated-list .date {
@@ -578,24 +588,37 @@ p { margin: 0 0 1em; }
 
 /* Education */
 
-.edu__item {
-  position: relative;
-  padding: 0 0 22px 24px;
-  border-left: 2px solid var(--border);
+.edu { position: relative; }
+
+.edu::before {
+  content: "";
+  position: absolute;
+  top: 8px;
+  bottom: 0;
+  left: 0;
+  width: 2px;
+  border-radius: 2px;
+  background: linear-gradient(180deg, var(--line-1), var(--line-2) 50%, var(--line-3) 85%, transparent);
 }
 
-.edu__item:last-child { padding-bottom: 0; border-left-color: transparent; }
+.edu__item {
+  position: relative;
+  padding: 0 0 22px 26px;
+}
+
+.edu__item:last-child { padding-bottom: 0; }
 
 .edu__item::before {
   content: "";
   position: absolute;
-  left: -7px;
+  left: -5px;
   top: 7px;
   width: 12px;
   height: 12px;
   border-radius: 50%;
-  background: var(--accent-soft);
+  background: var(--bg);
   border: 2px solid var(--accent);
+  box-shadow: 0 0 0 4px var(--accent-soft);
 }
 
 .edu__head {
@@ -643,7 +666,8 @@ p { margin: 0 0 1em; }
 .site-footer {
   margin-top: 24px;
   padding-top: 24px;
-  border-top: 1px solid var(--border);
+  background: var(--aurora-line) no-repeat;
+  background-size: 100% 1px;
   font-size: 0.85rem;
   color: var(--muted);
 }
@@ -726,12 +750,13 @@ p { margin: 0 0 1em; }
     padding: 0 0 20px;
     margin: 0;
     border: 0;
-    border-bottom: 1px solid var(--border);
     border-radius: 0;
+    background: var(--aurora-line) no-repeat left bottom;
+    background-size: 100% 1px;
   }
 
-  .pub:last-child { border-bottom: 0; }
-  .pub:hover { background: transparent; box-shadow: none; }
+  .pub:last-child { background: none; }
+  .pub:hover { background-color: transparent; box-shadow: none; }
   .pub__thumb { max-width: 420px; }
 
   .dated-list li { padding-left: 0; }
